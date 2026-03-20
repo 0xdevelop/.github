@@ -1,65 +1,69 @@
 # 0xdevelop | 汇贤聚技，与时偕行 🌿
 
-> 观乎天文，以察时变；观乎人文，以化成天下。
->
-> 0xdevelop，一群深耕技术、跟紧时代的开发者共同体，循《易经》"穷则变，变则通，通则久"之道，兼收百家之智，探索前沿技术，沉淀实践之果，以技载道，以行践心。
+> 观乎天文，以察时变；观乎人文，以化成天下。  
+> 0xdevelop，一群深耕技术、跟紧时代的开发者共同体，循《易经》"穷则变，变则通，通则久"之道，  
+> 兼收百家之智，探索前沿技术，沉淀实践之果，以技载道，以行践心。
 
 ---
 
-## 🏆 组织荣誉
+## 🧭 技术方向
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=0xdevelop&title=Stars,Commits,Repos,Followers&row=1&column=4&theme=darkhub&no-frame=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📊 仓库数据
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**组织统计**
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xdevelop&show_icons=true&theme=dark&include_all_commits=true&count_private=false&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</td>
-<td align="center" width="50%">
-
-**技术栈分布**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xdevelop&hide=css,scss,html&layout=compact&langs_count=8&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</td>
-</tr>
-</table>
+| 方向 | 说明 |
+|------|------|
+| 🤖 AI Agent 编排 | LLM 工具链、MCP 协议、智能体框架探索与实践 |
+| 🛠️ 开发者工具 | CLI 工具、单二进制分发、跨平台轻量工具链 |
+| 🖥️ 系统控制 | 跨平台计算机控制、自动化基础设施 |
+| ⚙️ 存量代码治理 | 旧系统性能深度优化、长周期生产稳定性建设 |
 
 ---
 
-## 🌐 提交活跃度
+## ⚙️ 存量代码治理
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xdevelop&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+> 《周易·系辞》曰："日新之谓盛德，生生之谓易。"
+
+可用，不过温饱之线；好用，方入匠心之境；**久用而不衰，乃生产之道。**
+
+代码如器，久置则锈，因循则腐。旧系统之患，非一日之寒——  
+接口如积薪，层层叠叠；锁如坐牢，争而不让；内存如漏卮，注而不满。  
+《大学》有言："苟日新，日日新，又日新。"  
+吾辈治码，亦当如是：**不以可用为终，不以好用为止，以久用为期。**
+
+| 层次 | 症状 | 方向 |
+|------|------|------|
+| 可用 | 能跑，偶尔抖 | 消除崩溃、修复边界 |
+| 好用 | 响应尚可，偶有卡顿 | 降延迟、减抖动 |
+| 久用 | 高负载稳定，长周期无劣化 | 内存 / 锁 / IO 深度治理、可观测性建设 |
+
+> 《荀子》曰："不积跬步，无以至千里。"  
+> 性能非一役可竟，乃日拱一卒之功。
 
 ---
 
-## 🔖 组织状态
+## 🌱 协作理念
 
-[![GitHub followers](https://img.shields.io/github/followers/0xdevelop?label=Followers&style=flat-square&logo=github&color=4a9eff)](https://github.com/0xdevelop)
-[![GitHub Org's stars](https://img.shields.io/github/stars/0xdevelop?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&logo=github&color=f0c040&label=Stars)](https://github.com/0xdevelop)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square&logo=github)](https://github.com/0xdevelop)
-[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=flat-square)](https://github.com/0xdevelop)
+> 《论语》曰："君子和而不同，小人同而不和。"
 
----
+技术选型无门户之见，语言不过工具，范式不过路径。  
+Go 之简朴，Rust 之严谨，各有所长，因势利导，不执一端。  
+**观点可以交锋，代码必须说话。**
 
-## 🗂️ 置顶仓库
-
-> 以下卡片自动拉取组织公开仓库的真实数据：
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xdevelop&repo=0xdevelop&theme=dark&hide_border=true)](https://github.com/0xdevelop/0xdevelop)
+> 《礼记》曰："独学而无友，则孤陋而寡闻。"  
+> 众智所聚，方能破局；闭门造车，终落人后。
 
 ---
 
-《易》曰："天行健，君子以自强不息"。
+## 🔒 隐私立场
 
-本组织深耕前沿技术，不囿于成规，不困于定式，汇众智而研新术，顺时势而求突破，以技术之力，赴时代之约。
+> 《道德经》曰："知常容，容乃公，公乃王，王乃天，天乃道，道乃久。"
 
-💡 **说明：** 专注前沿技术探索与实践；所有统计数据仅展示公开内容，保护组织隐私；所有图表均经验证，可正常加载。
+行事低调，不以数字论英雄。  
+组织成员、仓库统计、提交热力——皆非吾辈所炫之物。  
+**代码开口，数据闭嘴。以成果示人，不以指标邀功。**
+
+---
+
+《易》曰："天行健，君子以自强不息。"  
+本组织深耕前沿，不囿成规，汇众智而研新术，顺时势而求突破。  
+以技术之力，赴时代之约。
+
+> 💡 所有公开内容均为主动披露，组织活动及成员信息默认不公示。
