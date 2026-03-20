@@ -1,6 +1,6 @@
 <div align="center">
 
-[🇨🇳 中文](./README.cn.md)
+[🇨🇳 中文](./README.zh.md)
 
 </div>
 
