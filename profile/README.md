@@ -48,6 +48,3 @@ We keep a low profile. Metrics don't define us.
 We build with purpose. We move with the times.
 
 > 💡 All public content is intentionally disclosed. Member activity and organizational details are private by default.
-```
-
----
