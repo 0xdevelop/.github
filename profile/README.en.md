@@ -51,12 +51,3 @@ We build with purpose. We move with the times.
 ```
 
 ---
-
-**部署步骤：**
-
-两个文件都放在 `.github/profile/` 目录下：
-```
-.github/
-└── profile/
-    ├── README.md
-    └── README.en.md
