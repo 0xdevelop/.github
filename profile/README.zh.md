@@ -1,6 +1,6 @@
-<div align="right">
+<div align="center">
 
-[🇬🇧 English](./README.en.md)
+[🇬🇧 English](./README.md)
 
 </div>
 
